@@ -72,6 +72,7 @@ $ cat current_goals.txt
 ## `~/connect`
 
 [![GitHub](https://img.shields.io/badge/GitHub-js--valencia-181717?style=for-the-badge&logo=github)](https://github.com/js-valencia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-david-valencia-condoy-931b5b370/)
 
 ```bash
 $ echo "Thanks for visiting my profile!"
