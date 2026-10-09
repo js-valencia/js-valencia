@@ -39,6 +39,7 @@ $ cat current_goals.txt
 ### Backend & Databases
 
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=flat-square&logo=jakartaee&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
@@ -53,6 +54,7 @@ $ cat current_goals.txt
 ## `~/currently-learning`
 
 - Software design and object-oriented programming.
+- Backend development with Spring Boot.
 - Web development with JavaScript, HTML, and CSS.
 - Building backend applications with Jakarta EE.
 - Linux customization and command-line workflows.
