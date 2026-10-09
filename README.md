@@ -47,6 +47,7 @@ $ cat current_goals.txt
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
@@ -58,6 +59,7 @@ $ cat current_goals.txt
 - Web development with JavaScript, HTML, and CSS.
 - Building backend applications with Jakarta EE.
 - Linux customization and command-line workflows.
+- REST API development and testing with Postman.
 
 ## `~/github-stats`
 
